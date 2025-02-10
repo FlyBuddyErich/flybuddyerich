@@ -30,6 +30,11 @@ Store Here - это замечательное приложение, котор�
 ![LitQuest](https://github.com/user-attachments/assets/6aa1c40d-f8cc-4b80-9a72-861b0f26cce0)
 С помощью LitQuest вы сможете легко найти свои любимые книги и научные статьи. Это приложение использует Google Books API. / LitQuest makes it easy to find your favorite books and scholarly articles. This application uses the Google Books API. 
 
+### 3. [ReelMagic](https://github.com/FlyBuddyErich/movieProject)
+![ReelMagic](https://github.com/user-attachments/assets/fcebb310-ca6b-4ec2-918e-3c9c3ae7e4e8)
+)
+ReelMagic - это сайт визитка для киностудии, с прекрасными анимациями на GSAP и встроенным видеоплеером для просмотра трейлеров. / ReelMagic is a business card site for a movie studio, with beautiful animations on GSAP and a built-in video player to view trailers.
+
 ## 📫 Как со мной связаться / How to contact me
 
 - [Портфолио / Portfolio](https://portfolio-flybuddyerichs-projects.vercel.app/)
