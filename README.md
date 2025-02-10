@@ -32,7 +32,8 @@ Store Here - это замечательное приложение, котор�
 
 ### 3. [ReelMagic](https://github.com/FlyBuddyErich/movieProject)
 ![ReelMagic](https://github.com/user-attachments/assets/fcebb310-ca6b-4ec2-918e-3c9c3ae7e4e8)
-)
+![reelmagicMobile](https://github.com/user-attachments/assets/ddcb846b-1477-43a3-a5d7-1661f9c78b9f)
+
 ReelMagic - это сайт визитка для киностудии, с прекрасными анимациями на GSAP и встроенным видеоплеером для просмотра трейлеров. / ReelMagic is a business card site for a movie studio, with beautiful animations on GSAP and a built-in video player to view trailers.
 
 ## 📫 Как со мной связаться / How to contact me
