@@ -2,11 +2,11 @@
 
 ![Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVncG9iemV0c2V0MXlzaGQyZm5hZDFrdmc1Y3R6bXpiNzgyc2F0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dxODB9UE879RDqAh3o/giphy.gif)
 
-Я frontend-разработчик с опытом в создании современных веб-приложений. Мне нравится работать с JavaScript, React и другими технологиями.
+Я frontend-разработчик с опытом в создании современных веб-приложений. Мне нравится работать с JavaScript, TypeScript, React и другими технологиями.
 
 ---
 
-I am a frontend developer with experience in building modern web applications. I enjoy working with JavaScript, React and other technologies.
+I am a frontend developer with experience in building modern web applications. I enjoy working with JavaScript, TypeScript, React and other technologies.
 
 ## 🛠️ Технологии и инструменты / Technologies and tools
 
