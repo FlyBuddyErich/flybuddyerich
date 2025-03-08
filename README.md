@@ -15,6 +15,7 @@ I am a frontend developer with experience in building modern web applications. I
 - **Стилизация:** CSS, TailwindCSS
 - **Инструменты:** Webpack, Vite, Git, Figma
 - **Базы данных:** SQL, PostgreSQL, MongoDB, Appwrite
+- **State менеджеры:** Zustand, MobX
 
 ## 📈 Моя статистика на GitHub / My stats on GitHub
 
