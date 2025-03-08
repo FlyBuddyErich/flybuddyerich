@@ -20,17 +20,21 @@ I am a frontend developer with experience in building modern web applications. I
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flybuddyerich)](https://github.com/flybuddyerich/github-readme-stats)
 
-## 🚀 Мои проекты / My projects
+## 🚀 Мои лучшие проекты / My best projects
 
-### 1. [StoreHere](https://github.com/FlyBuddyErich/store-here)
+### 1. [Lempirse](https://github.com/FlyBuddyErich/lemprise-app)
+![Lemprise](https://github.com/user-attachments/assets/b4ce67f5-82cf-452f-9b55-5805bd9a9311)
+Данный проект - это клиентская часть для личного магазина бренда одежды и творческого объединения Lemprise. / This project is a client piece for the personal shop of clothing brand and creative collective Lemprise.
+
+### 2. [StoreHere](https://github.com/FlyBuddyErich/store-here)
 ![store-hereComputer](https://github.com/user-attachments/assets/798d79d1-1657-48ca-bb39-590b03994dca)
 Store Here - это замечательное приложение, которое позволяет хранить файлы и делиться ими с другими людьми. / Store Here - is awesome app that allows you to store your files and share them with other people.
 
-### 2. [LitQuest](https://github.com/FlyBuddyErich/book-app)
+### 3. [LitQuest](https://github.com/FlyBuddyErich/book-app)
 ![LitQuest](https://github.com/user-attachments/assets/6aa1c40d-f8cc-4b80-9a72-861b0f26cce0)
 С помощью LitQuest вы сможете легко найти свои любимые книги и научные статьи. Это приложение использует Google Books API. / LitQuest makes it easy to find your favorite books and scholarly articles. This application uses the Google Books API. 
 
-### 3. [ReelMagic](https://github.com/FlyBuddyErich/movieProject)
+### 4. [ReelMagic](https://github.com/FlyBuddyErich/movieProject)
 ![ReelMagic](https://github.com/user-attachments/assets/fcebb310-ca6b-4ec2-918e-3c9c3ae7e4e8)
 
 ReelMagic - это сайт визитка для киностудии, с прекрасными анимациями на GSAP и встроенным видеоплеером для просмотра трейлеров. / ReelMagic is a business card site for a movie studio, with beautiful animations on GSAP and a built-in video player to view trailers.
