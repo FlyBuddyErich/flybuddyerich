@@ -24,7 +24,7 @@ I am a frontend developer with experience in building modern web applications. I
 
 ### 1. [Lempirse](https://github.com/FlyBuddyErich/lemprise-app)
 ![Lemprise](https://github.com/user-attachments/assets/b4ce67f5-82cf-452f-9b55-5805bd9a9311)
-Данный проект - это клиентская часть для личного магазина бренда одежды и творческого объединения Lemprise. / This project is a client piece for the personal shop of clothing brand and creative collective Lemprise.
+Данный проект - это клиентская часть для личного магазина бренда одежды и творческого объединения Lemprise. Данный проект выполнен по собственному дизайну на Figma / This project is a client piece for the personal shop of clothing brand and creative association Lemprise. This project is made by own design on Figma.
 
 ### 2. [StoreHere](https://github.com/FlyBuddyErich/store-here)
 ![store-hereComputer](https://github.com/user-attachments/assets/798d79d1-1657-48ca-bb39-590b03994dca)
